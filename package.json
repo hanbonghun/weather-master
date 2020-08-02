@@ -1,0 +1,14 @@
+{
+  "name": "weather-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hanbonghun/weather-master.git",
+  "author": "bng4535 <bng4535@khu.ac.kr>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}
